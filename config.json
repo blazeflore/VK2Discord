@@ -2,19 +2,19 @@
 	"clusters": [
 		{
 			"vk": {
-				"token": "Токен от станицы или группы ВКонтакте",
-				"group_id": "club1",
+				"token": "3ffb1bb0a8fd45dc856a1422d1cae412abc69457e856f472702c954e8a0978a6bc71725c0ae8a16316042",
+				"group_id": "saint_legionforefer",
 				"keywords": [],
 				"words_blacklist": [],
 				"filter": true,
 				"donut": false,
 				"ads": false,
-				"longpoll": false,
+				"longpoll": true,
 				"interval": 30
 			},
 			"discord": {
 				"webhook_urls": [
-					"https://discordapp.com/api/webhooks/"
+					"https://discord.com/api/webhooks/814607759747055616/OEWns5LXV_UcF4mxdPCvXTSTedehT--XCu66pfXaa60LSuyTIxALOlnFE7DCBvJwcmp3"
 				],
 				"username": "",
 				"avatar_url": "",
